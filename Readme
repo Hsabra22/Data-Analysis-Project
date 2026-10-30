@@ -1,0 +1,19 @@
+# Data Analysis Project
+
+## Dataset
+The `data/` folder contains:
+- `Dataset.csv`: The dataset sorted chronologically based on the timestamp.
+- `dataset_backup.csv`: The original dataset before sorting it by time.
+
+## Requirements
+Install the required Python libraries using:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Project Structure
+- `data/`: Contains the original and chronologically sorted datasets.
+- `notebooks/`: Contains the main Jupyter notebook (`Project.ipynb`) where the analysis and machine learning work will be performed.
+- `report/`: Contains the project report documenting the methodology, steps, and results.
+- `requirements.txt`: Lists the Python libraries required to run the project.
